@@ -1,0 +1,121 @@
+body {
+   
+}
+
+
+.imagen_fondo{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.divisor {
+    margin: 20px;
+    padding: 50px;
+}
+
+.cajota {
+    display: flex;
+    justify-content: center;
+}
+
+.subtitulo {
+    height: 150px;
+    background-color: rgb(147, 53, 53);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+.divisor2 {
+     margin: 20px;
+    padding: 50px;
+}
+
+.cajota2 {
+    display: flex;
+    justify-content: center;
+}
+
+.subtitulo2 {
+    height: 150px;
+    background-color: rgb(43, 66, 115);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+.imagen2 {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.imagen3 {
+    margin: 10px;
+    padding: 100px;
+   
+}
+
+.divisor3 {
+    color: rgb(255, 255, 255);
+    background-color: lightslategray;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    font-size: 25px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 15px;
+}
+
+.cajota3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+
+}
+
+.caja {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 100px;
+    width: 50%;
+}
+
+.libro {
+    background-image: url(fondofinal.png);
+    background-size: cover;
+    background-position: center;
+    padding: 60px 20px;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.libro h1 {
+    color: aliceblue;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.divisor4 {
+    margin: 20px;
+    padding: 50px;
+}
+
+.cajota4 {
+    display: flex;
+    justify-content: center;
+    background-color: lightslategray;
+}
